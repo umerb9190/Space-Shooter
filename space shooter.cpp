@@ -20,7 +20,7 @@ int enemyX[3];
 int enemyFlag[3];
 char bird[3][5] = { 206,' ',' ',' ',' ',
 				' ',' ','  ',' ',' ',
-                ' ',' ',' ',' ',' ' };
+                ' ',' ',' ',' ',' ' };         //enemy formation
 int birdPos = WIN_WIDTH / 2;
 int score = 0;
 int bullets[20][4];
